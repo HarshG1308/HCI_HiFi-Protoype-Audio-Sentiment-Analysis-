@@ -4,3 +4,5 @@ numpy
 librosa
 sounddevice
 tensorflow 
+matplotlib
+streamlit
